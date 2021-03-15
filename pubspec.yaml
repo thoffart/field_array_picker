@@ -3,9 +3,9 @@ name: field_array_picker
 version: 0.1.0
 
 dependencies:
-  uuid: ^2.0.4
-  intl: ^0.16.1
-  flutter_picker: ^1.1.4
+  uuid: ^3.0.1
+  intl: ^0.17.0
+  flutter_picker: ^2.0.0
   flutter:
     sdk: flutter
 
